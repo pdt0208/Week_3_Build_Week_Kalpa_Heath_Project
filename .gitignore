@@ -1,0 +1,9 @@
+# Local environment and caches
+.venv/
+build1-starter-kit/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+.env
