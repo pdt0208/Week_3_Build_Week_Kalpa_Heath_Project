@@ -39,6 +39,8 @@ The city comparison is descriptive. It shows that patient counts fell in Chennai
 | [`docs/decisions-log.md`](docs/decisions-log.md) | Cleaning and counting decisions and their effects |
 | [`docs/challenges-log.md`](docs/challenges-log.md) | Issues encountered, checks, and resolutions |
 | [`docs/ai-log.md`](docs/ai-log.md) | Record of AI assistance used on the project |
+| [`docs/board-hypotheses.md`](docs/board-hypotheses.md) | Post-analysis hypothesis review and CEO-facing response |
+| [`slides/Kalpa_Health_Brief_A_B_Board_Edition.pptx`](slides/Kalpa_Health_Brief_A_B_Board_Edition.pptx) | CEO-facing board presentation with recommendations |
 | [`docs/`](docs/) | Project notes, diagrams, and supporting documents |
 | [`slides/`](slides/) | Presentation files and the board-number workbook |
 

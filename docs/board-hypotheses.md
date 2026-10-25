@@ -1,0 +1,24 @@
+# Board discussion · candidate hypotheses and management response
+
+**How to read this:** This is a post-analysis review of candidate explanations using the existing descriptive notebook. It is not a record of a hypothesis written before the team opened the data. “Supported” means the observed pattern is consistent with the statement; it does not establish cause or statistical significance. No reported project figure has been recalculated or replaced here.
+
+## Hypothesis review
+
+| Brief | Candidate hypothesis | Why test it | What the analysis shows | Assessment | Management implication |
+|---|---|---|---|---|---|
+| A | H1 test growth came from more patients and more tests per visit, while visits per patient offset some growth. | Identifies which operating levers moved alongside total tests. | Patients **+3.76%**; visits per patient **−0.97%**; tests per visit **+2.19%**; total booked tests **+5.01%**. | **Supported as a descriptive decomposition.** This does not say why the components changed. | Protect patient growth; investigate the slight decline in visit frequency before selecting a retention intervention. |
+| A | The plan shortfall is isolated to one city. | Tests whether the response should be company-wide or focused on the largest gaps. | All six cities were below plan. Chennai (**22.5%**), Bengaluru (**21.6%**), and Jaipur (**20.7%**) account for **64.8%** of the positive shortfall. | **Rejected.** The gap is broad, with three cities contributing most of it. | Start city-level diagnosis with Chennai, Bengaluru, and Jaipur; do not assume one uniform cause. |
+| A | Clinic and home channels are both weakening. | Checks whether channel performance points to one common issue. | Clinic tests changed **−11.9%**; home tests changed **+37.5%**. | **Rejected.** The channels moved in opposite directions. | Ask clinic and home teams to explain the divergence; test channel-specific actions only after they identify drivers. |
+| B | The Chennai and Jaipur Q2 falls are entirely a booking-count artefact. | Checks whether the system transition explains the apparent decline. | Before count reconciliation, bookings changed **−2.1%** in Chennai and **−5.3%** in Jaipur. On the comparable count they changed **−7.6%** and **−10.7%**; the four Legacy cities grew **+2.1%**. | **Rejected.** Reconciliation changes the size of the decline, not its direction. | Reconcile dashboard definitions, then investigate the remaining patient-volume decline. |
+| B | Fewer patients, rather than less activity per patient, are the main arithmetic component of the Q2 city declines. | Separates patient volume from repeat activity and test mix. | Chennai: patients **−8.3%**, visits per patient **+0.8%**, tests per visit **+2.8%**. Jaipur: patients **−10.7%**, visits per patient about **0.0%**, tests per visit **+2.4%**. | **Supported descriptively.** It identifies where the arithmetic movement sits, not why patients fell. | Diagnose new-patient acquisition and patient drop-off with both city teams before choosing a fix. |
+| B | The Nova transition alone caused Jaipur's decline. | Tests whether timing supports blaming the system move. | Jaipur Q1 bookings were **10,410** in Q1 2025 and **8,792** in Q1 2026, before the April 2026 move. | **Not supported as a sole explanation.** The decline was already visible before the move; this comparison does not identify another cause. | Keep system reconciliation on the action list, but investigate earlier city-level drivers too. |
+| B | The Q2 decline was network-wide. | Compares the two cities with a same-quarter peer group. | The four cities remaining on Legacy grew **+2.1%** in Q2. | **Rejected for this peer comparison.** The pattern is not shared by all six cities. | Focus the first patient-volume review on Chennai and Jaipur; monitor peers as a benchmark. |
+
+## Recommended board response
+
+1. **Approve a 30-day diagnostic**, led with Chennai and Jaipur, focused on patient acquisition, first-to-repeat conversion, and patient drop-off. Include Bengaluru in the H1 plan-gap review because it contributes 21.6% of the shortfall.
+2. **Reconcile the city scorecard** to one agreed definition of a visit and replacement booking. Keep the board view to the comparable city outcome; leave row-level cleaning mechanics in the analysis appendix.
+3. **Ask for a city and channel action plan** that names an owner, a measurable outcome, a comparison group or baseline, and the expected cost. The current analysis does not support a rupee budget or a claim that any intervention will work.
+4. **Review after 30 days.** If the patient decline persists in the reconciled view, run a limited, measurable pilot and expand only if it improves kept visits or repeat use at an acceptable cost.
+
+This is a decision to investigate and prepare targeted pilots, not a claim that the cause has been identified or that management should immediately commit broad growth spend.
